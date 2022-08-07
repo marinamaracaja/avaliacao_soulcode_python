@@ -19,10 +19,8 @@ Ex: N = 7      -     Deverá mostrar na tela (28)             -     1 + 2 + 3 + 
 4) Faça um algoritmo que leia e armazene em um dicionário informações sobre nome, idade, altura, peso, cpf, rg,  endereço e telefone de uma pessoa. Todos esses dados deverão ser enviados via usuário. Ao final, percorra o dicionário já criado e exiba as informações que nele estão preenchidas. Não esqueça de fazer as validações quanto a valores inteiros e reais.
 
 
-5) Crie um programa que leia o valor de um salário em reais e calcule o valor do INSS (de acordo com a faixa salarial), , FGTS e Imposto de Renda(Se aplicável) e ao final informe o salário bruto, o valor de cada uma das retenções e o salário líquido do funcionário. Você deverá usar funções para encontrar os valores de FGTS e INSS. O restante fica ao seu critério
-INSS - 
-12% (Até R$2400,00)
-15% (Acima de R$2400,00)
+5) Crie um programa que leia o valor de um salário em reais e calcule o valor do INSS (de acordo com a faixa salarial), FGTS e Imposto de Renda (Se aplicável) e ao final informe o salário bruto, o valor de cada uma das retenções e o salário líquido do funcionário. Você deverá usar funções para encontrar os valores de FGTS e INSS. O restante fica ao seu critério
+INSS - 12% (Até R$2400,00), 15% (Acima de R$2400,00)
 
 ## Ferramentas utilizadas:
 * Python
